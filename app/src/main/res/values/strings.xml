@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CNJokes</string>
+    <string name="bad_request_text">По вашему запросу ничего не найдено</string>
+    <string name="connection_error_text">Отсутствует подключение к интернету</string>
+    <string name="main_text">Chuck Norris Jokes</string>
+    <string name="previous_jokes_list">Previously Read</string>
+    <string name="no_previoos_jokes_list">No previously read jokes.</string>
+    <string name="btn_text">Show Me Another</string>
+</resources>
