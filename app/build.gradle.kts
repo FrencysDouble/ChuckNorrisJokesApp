@@ -78,7 +78,7 @@ dependencies {
     implementation (libs.moshi.kotlin)
 
 
-        // stone DI
+    // stone DI
     implementation(libs.stone.lib)
     kapt(libs.stone.processor)
 
